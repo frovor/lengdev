@@ -12,26 +12,58 @@
             <span>Hora</span>
             <input type="time" id="hora" name="hora">
         </label>
+        <br>
         <label for="dia">
             <span>Día</span>
             <input type="date" id="dia" name="dia">
         </label>
+        <br>
         <label for="semana">
             <span>Semana</span>
             <input type="week" id="dia" name="semana">
         </label>
+        <br>
         <label for="mes">
             <span>Mes</span>
             <input type="month" id="dia" name="mes">
         </label>
+        <br>
         <input type="submit">
     </form> -->
-    <form action="">
+    <!-- <form action="">
         <label for="calendario">
             <span>Calendario</span>
             <input type="datetime-local">
         </label>
         <input type="submit">
+    </form> -->
+    <h1>Formulario de Registro</h1>
+    <form action="">  
+        <label for="nombre">
+            <span>¿Cúal es tu nombre?</span>
+            <input type="text" name="nombre" id="nombre" autocomplete="name" required>
+        </label>
+        <br>
+        <br>
+        <label for="correo">
+            <span>¿Cúal es tu correo</span>
+            <input type="email" name="correo" id="correo" autocomplete="email" required>
+        </label>
+        <br>
+        <br>
+        <label for="pais">
+            <span>¿En que país vives?</span>
+            <input type="text" name="pais" id="pais" autocomplete="country" required>
+        </label>
+        <br>
+        <br>
+        <label for="cp">
+            <span>¿Cual es tu codigo postal?</span>
+            <input type="text" name="cp" id="cp" autocomplete="postal-code" required>
+        </label>
+        <br> <br>
+        <input type="submit">
     </form>
+
 </body>
 </html>
