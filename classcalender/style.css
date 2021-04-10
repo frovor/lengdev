@@ -2,7 +2,7 @@ article{
     color: darkgoldenrod;
     font-size: 35px;
 }
-ul{
+/*ul{
     color: rgb(20, 216, 20);
     font-size: 25px;
     font-weight: bold;
@@ -16,13 +16,16 @@ img{
     height: 25px;
     margin: 5px;
     align-content: center;
-}
+}*/
 main{
     background-color: rgb(171, 235, 235);
 }
-.main-div-ul{
-    color: blueviolet;
+.main-section-ul{
+    color: rgb(226, 86, 43);
+    font-size: 25px;
+    font-weight: bold;
 }
-.main-div-ul__item{
+.main-section-ul__item{
     color: blueviolet;
+    
 }
