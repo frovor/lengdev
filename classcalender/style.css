@@ -1,6 +1,6 @@
 article{
     color: darkgoldenrod;
-    font-size: 35px;
+    font-size: 50px;
 }
 /*ul{
     color: rgb(20, 216, 20);
@@ -10,22 +10,27 @@ article{
 }
 a{
     color: chocolate;
-}
-img{
+}*/
+.main-section-ol__item img{
     width: 25px;
     height: 25px;
-    margin: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
     align-content: center;
-}*/
+}
 main{
-    background-color: rgb(171, 235, 235);
+    background-color: rgb(109, 184, 155);
 }
 .main-section-ul{
     color: rgb(226, 86, 43);
     font-size: 25px;
     font-weight: bold;
 }
-.main-section-ul__item{
-    color: blueviolet;
+.main-section{
+    color: rgb(9, 12, 236);
+    font-size: 20px;
     
+}
+.main-section-ol__item a{
+    color: blue;
 }
