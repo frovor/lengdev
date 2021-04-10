@@ -1,0 +1,28 @@
+article{
+    color: darkgoldenrod;
+    font-size: 35px;
+}
+ul{
+    color: rgb(20, 216, 20);
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+a{
+    color: chocolate;
+}
+img{
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    align-content: center;
+}
+main{
+    background-color: rgb(171, 235, 235);
+}
+.main-div-ul{
+    color: blueviolet;
+}
+.main-div-ul__item{
+    color: blueviolet;
+}

@@ -1,0 +1,17 @@
+p{
+    color: blue;
+    font-size: 35px;
+    align-content: center;
+} 
+/* class */
+.parrafo {
+    color: rgb(123, 255, 0);
+    font-size: 35px;
+    align-content: center;
+}
+/* ID */
+#prueba{
+    color: darkgreen;
+    font-size: 40px;
+    font-family: cursive;
+}
