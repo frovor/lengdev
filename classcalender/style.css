@@ -30,7 +30,9 @@ main{
     color: rgb(9, 12, 236);
     font-size: 20px;
     
+    
 }
 .main-section-ol__item a{
     color: blue;
+    /*text-decoration: none;*/
 }
