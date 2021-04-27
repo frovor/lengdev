@@ -1,0 +1,24 @@
+/*
+mormalizecss o reset
+*/
+body{
+    background-color: bisque;
+}
+
+.header{
+color: aqua;
+}
+.header__title{
+
+}
+.header__menu{
+color: rgb(226, 49, 43);
+}
+
+.header__menu__lista{
+    color: chartreuse;
+}
+
+.header__menu__lista--unico{
+    color: rgb(82, 22, 64);
+}

@@ -1,0 +1,15 @@
+<!--h2 + p{   /* Combinator Adjascent sibiling "Hermano adyacente o cercano */
+    color: red;
+}
+
+h2 ~ p{
+    color: blue;
+} -->
+
+div > p{    /* combinator Child o Hijo directo */
+    color:rgb(211, 18, 18);
+}
+
+div p{  /* Combinator descendent o descendiente */
+    color: rgb(220, 200, 20);
+}
