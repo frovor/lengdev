@@ -12,3 +12,7 @@ p{
 div > p{
     font-size: 2.6rem;
 }
+article{
+    font-size: 1.7rem;
+    color: chartreuse;
+}
